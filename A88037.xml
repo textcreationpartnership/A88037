@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to S C.M. a member of Parliament from an inhabitant of the island of Barbadoes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88037</idno>
+            <idno type="STC">Wing L1722A</idno>
+            <idno type="STC">ESTC R215666</idno>
+            <idno type="EEBO-CITATION">99897398</idno>
+            <idno type="PROQUEST">99897398</idno>
+            <idno type="VID">135533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2502:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to S C.M. a member of Parliament from an inhabitant of the island of Barbadoes.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sugar trade --  Early works to 1800.</term>
+               <term>Barbados --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:135533:1"/>
+            <head>A LETTER TO <hi>S</hi> C. M. <hi>a Member of Parliament,</hi> FROM AN Inhabitant of the Iſland of BARBADOES.</head>
+            <p>THO I have not the Honour of being perſonally ac<g ref="char:EOLhyphen"/>quainted with you, yet I am no Stranger to your Character: your great Capacity and fervent Zeal to advance the Intereſt of <hi>England,</hi> has appeared upon many ſeaſonable Opportunities; and it's that which has encouraged me to make Application to you, in behalf of the Iſland of <hi>Barbadoes.</hi> I knew to do good to any ſet of Peo<g ref="char:EOLhyphen"/>ple under the <hi>Engliſh</hi> Government is a ſufficient Motive to animate you, without any other Conſideration: But in this Caſe the Intereſt of <hi>England</hi> is highly concerned, for it's well known to all People, who have made any Inquiry into the Trade of <hi>England,</hi> and the <hi>Engliſh</hi> Conſtitution, how bene<g ref="char:EOLhyphen"/>ficial the Sugar Colonies, and eſpecially <hi>Barbadoes</hi> which is
+<pb n="2" facs="tcp:135533:2" rendition="simple:additions"/>the Key to all the reſt, have been to the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> the great Number of Ships that have been yearly em<g ref="char:EOLhyphen"/>ployed, by which means many ſtout Sailors have been bred; the vaſt Export of the Manufactory, which gives Employ<g ref="char:EOLhyphen"/>ment to many Thouſands of Families in this Nation that would otherwiſe lie idle, is an undeniable Proof of the great Advantage the Sugar Colonies are to this Nation.</p>
+            <p>Now Sir, that which I would offer to your Conſideration, is, That this Iſland is fallen to great Decay, and muſt dwin<g ref="char:EOLhyphen"/>dle to nothing, if not prevented by the Wiſdom of this Government; and this will not only be deſtructive to the Inhabitants there, but will prove of bad Conſequence to <hi>England.</hi>
+            </p>
+            <p>The Impoſition laid in the late King's time, gave the firſt Stroke to that Iſland; and ſince that the Soil is become ſo poor, that it requires very great Charge and Labour to im<g ref="char:EOLhyphen"/>prove it; eſpecially ſeeing the Seaſons of late Years are ſo uncertain, that there is not near one half the Su<g ref="char:EOLhyphen"/>gar made now that uſed to be made 18 or 20 Years ago, and the Iſland ſenſibly decreaſes yearly in that Manufacture.</p>
+            <p>But that which threatens <hi>Barbadoes</hi> extremely, is the Male Adminiſtration of the Government there. The Governor of that Iſland has the Diſpoſal of all Offices both Civil and Military, a few Patent Places excepted; and even theſe are ſubjected to great uneaſineſs, if they do not com<g ref="char:EOLhyphen"/>ply with his Terms, and ſome of them have been rendred ineffectual, notwithſtanding the Grants were immediately from the King.</p>
+            <p>And that which is of worſe Conſequence, the Governor is or may be either the primary or ultimate Judg in all Caſes that relate either to Life or Property. He is Cap<g ref="char:EOLhyphen"/>tain General and Vice Admiral, Chancellor, chief Judg of the Court of Errors, chief Judg of the Court of Grievan<g ref="char:EOLhyphen"/>ces, and Ordinary of the Iſland, chief Judg of the Court of Grand Seſſions, by which means the Inhabitants find
+<pb n="3" facs="tcp:135533:2" rendition="simple:additions"/>themſelves obliged to run to him with Gifts, eſpecially ſuch as have Cauſes, or ſuſpect they may have Cauſes depending before him; and the Governors that have been hitherto ſent, have chiefly aimed at making their Fortunes, ſo that they ſeldom refuſe what is given to them: and this throws the Peo<g ref="char:EOLhyphen"/>ple into endleſs Suits, and incourages Debtors and many ill-deſigning People to go to Law, expecting good Succeſs from the great Preſents they generally never fail to make.</p>
+            <p>But there is another Miſchief, which is paramount to all theſe already named; and that is, by this great Power lod<g ref="char:EOLhyphen"/>ged in the Governor, he is enabled to influence in the choice of the Aſſembly, which is the Repreſentatives of the Peo<g ref="char:EOLhyphen"/>ple choſen two out of every Pariſh Annually, who in con<g ref="char:EOLhyphen"/>junction with the Governor and Council have a Power from the King to make Laws, raiſe Money, and the like. Now the Money Bills ariſe firſt in this Aſſembly, and if the Governor has ſo great Power in the choice of them, then he can never fail to accompliſh his Ends; which plainly appears if it is conſidered, that in little more than three Years a late Gover<g ref="char:EOLhyphen"/>nor has had preſented by the Aſſembly near ten thouſand Pounds.</p>
+            <p>Theſe great Gifts are ſo far from being an Indication of the Riches of the Inhabitants, that they are rather Marks of their Slavery; and I hope no body will have the Aſſurance to deny this, if it is proved, that at the ſame time the laſt 2000<hi>l.</hi> was preſented to the Governor, there was a Propoſiti<g ref="char:EOLhyphen"/>on to lay a Tax upon the Inhabitants to raiſe one thouſand Pounds for the Support of many poor Families, that were dying and going off the Iſland for want of Food, this laſt Motion was diſregarded, but the Preſent to the Governor paſt with very little Contradiction.</p>
+            <p>The King gives the Governor a very good Salary, the Perquiſites of the Government are conſiderable, the Inha<g ref="char:EOLhyphen"/>bitants have lately found a way to bear the Charges of his living; and yet all this is not thought ſufficient: But the Peo<g ref="char:EOLhyphen"/>ple
+<pb n="4" facs="tcp:135533:3"/>muſt be either cajol'd, frightned, or both, into theſe great annual Preſents; and at ſuch times when the Inhabi<g ref="char:EOLhyphen"/>tants are in a ſtarving Condition: And it is not thought e<g ref="char:EOLhyphen"/>nough to precipitate into this unparallel'd Slavery more and more every Year, but they are brought over to make Publick Juſtification of their Actions, by giving Gene<g ref="char:EOLhyphen"/>ral Applauſes and Encomiums of their Governors, tho ſuch be even againſt matter of Fact and Record, when they ſhould be ſpending their Time in the more neceſſary and eſſen<g ref="char:EOLhyphen"/>tial Affairs of the Iſland, which are generally neglected.</p>
+            <p>However tho it may be neceſſary to reſtrain an unthinking People from exceeding in thoſe annual Gifts, yet the limiting ſo as that they may have nothing left in their Power to ob<g ref="char:EOLhyphen"/>lige a Governor may be prejudicial; but then the proper Care will be to keep them within Bounds.</p>
+            <p>There are many Inſtances may be given, more than have been named, of the Corruption of Governors, which will appear if examined into; therefore I forbear to take up your Time in mentioning them here.</p>
+            <p>Sir, I lay theſe things before you, that as they are all cer<g ref="char:EOLhyphen"/>tain Truths, and upon Enquiry will be found ſo, you will be pleaſed to give your helping Hand for the Removal of ſuch Grievances, when they come to be complained of in a proper Place. For as the People in the Plantations are be<g ref="char:EOLhyphen"/>cauſe of the Diſtance and great Charge diſcouraged from ap<g ref="char:EOLhyphen"/>pealing to the Government here; and indeed none can ap<g ref="char:EOLhyphen"/>peal for leſs than 500 <hi>l.</hi> So the Complaints that have been made have met with little Succeſs, it being ſhrewdly ſuſpected ſome Great Men here ſhare with the Governors in their Depre<g ref="char:EOLhyphen"/>dations, that they may be the better ſupported in their un<g ref="char:EOLhyphen"/>juſt Adminiſtrations there. And it ſeems very unaccountable that the Plantations ſhould continue ſo long neglected, eſpe<g ref="char:EOLhyphen"/>cially ſeeing they are as it were under the Guardianſhip of an Eſtabliſhment, the Members whereof are ſufficiently paid for ſuch purpoſe. But I wiſh the queſtion may not be
+<pb n="5" facs="tcp:135533:3" rendition="simple:additions"/>properly put whether the Honourable Members of that Body have hitherto taken care to qualify themſelves, to underſtand the Conſtitution of the Colonies, and whether they have yet made any one Advance towards the Promotion of the Plantation-Trade, and whether the Money beſtow'd on them might not be better laid out on the Plantations or otherwiſe, unleſs they give better Proofs hereafter both of their Care and Underſtanding.</p>
+            <p>It's true it may be alledged, that there will be both great Hazard and Difficulty in ſubverting or altering a Conſtitution that has been of ſo long ſtanding in the Iſland: And if this upon Conſideration ſhould be found ſo, yet I hope no body will deny but that it's moſt conſiſtent with Reaſon and Ju<g ref="char:EOLhyphen"/>ſtice, that ſeeing ſo great Power is lodged in Governors, that ſuch as ſhall be ſent hereafter ought to be Men of pure Hearts, clear Heads, and clean Hands, experienc'd in Buſi<g ref="char:EOLhyphen"/>neſs, and Men of Intereſt, who, as they'l ſcorn to pervert or delay Juſtice, ſo they will be under no neceſſity of ſqueezing the People.</p>
+            <p>There is another thing that is very Eſſential to the Preſer<g ref="char:EOLhyphen"/>vation of this conſiderable Iſland, that I cannot omit offer<g ref="char:EOLhyphen"/>ing to your ſerious Conſideration, which is putting of it in a ſutable Poſture of Defence, if a War ſhould break out. I do not think it convenient to ſay any thing here of the State of it at preſent, ſeeing that may be eaſily known when examin'd: But this I may affirm, That, morally ſpeaking, if 120000 or 140000 <hi>l.</hi> were laid out upon well-contrived For<g ref="char:EOLhyphen"/>tifications, with a few well-diſciplin'd Regular Troops, no Prince in <hi>Europe</hi> could have hopes to attack that Iſland with Succeſs, even with a Force of 10000 men; and ſuch a Force I hope no body will ſuppoſe can be tranſported ſo many Leagues.</p>
+            <p>This then would not only render <hi>Barbadoes</hi> impregnable, but would be a great Security for the reſt of the Sugar Iſlands, which otherwiſe may be in great danger; and if the Plantation.
+<pb n="6" facs="tcp:135533:4" rendition="simple:additions"/>Trade ſhould be loſt, eſpecially if a War happens, which will ſhut up a great deal of our other Traffick, I appeal to all thinking Men how many <hi>Engliſh</hi> Ships would lie by the Walls, and how many People in <hi>London,</hi> and other Cities of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> would blow their Fingers, to ſay no worſe of it, for want of Imploy. It muſt then be manifeſt Imprudence not to look forward, or to run ſuch a Riſque, as for the want of laying out 140000 <hi>l.</hi> to put even this Iſland to any hazard, which pays the Crown near 40000 <hi>l.</hi> and imports about 400000 <hi>l.</hi> into the Kingdom <hi>per Ann.</hi> which is ſo much Treaſure laid up in the Nation, unleſs ſo much of it which is yearly exported in Manufactures, which is ſtill a greater Ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>But if it be objected, That the Nation is at great Charge in ſending Ships in time of War, <hi>&amp;c.</hi> and that the Inhabi<g ref="char:EOLhyphen"/>tants ought to be at the Expence of fortifying the Place themſelves: I have two very clear and plain Anſwers ready. In the firſt place, the People of <hi>Barbadoes</hi> are in no ſort of Capacity of raiſing ſuch a Fund as will be required for ſuch purpoſe: For tho three or four Men have been fortunate in Trade and otherwiſe, to get indifferent good Eſtates; yet I may affirm, That there are not twenty Men in that Iſland worth 700 <hi>l.</hi> Sterling <hi>per Annum,</hi> of which they pay more than one third annually to the Publick, in <hi>England</hi> and in the Iſland; and for the reſt, many of them do not come near the aforeſaid Value, and others are in a very low Condition. For this is the Misfortune of a <hi>Barbadoes</hi> Eſtate; it is ſo ſub<g ref="char:EOLhyphen"/>ject to Caſualties, that one Year it may be worth 4 or 500 <hi>l. per Annum,</hi> and the Loſs of Slaves, Fire, the Incertainty of the Seaſons, <hi>&amp;c.</hi> will reduce it next Year to leſs than 200 <hi>l.</hi> The next Anſwer is, That if the Inhabitants were capable to raiſe ſuch a Fund, yet they are not under any ſort of Se<g ref="char:EOLhyphen"/>curity that it would be truly applied; and this Suggeſtion is grounded upon the following Inſtance. Above thirty Years ago, in the Reign of K. <hi>Charles</hi> the Second, the Iſland of
+<pb n="7" facs="tcp:135533:4" rendition="simple:additions"/>
+               <hi>Barbadoes,</hi> by a Law there, laid an Impoſt of 4 ½ <hi>per Cent.</hi> upon all the Product of the Iſland for and towards the de<g ref="char:EOLhyphen"/>fraying the publick Charges of the Iſland, ſuch as building and repairing the Fortifications, building a Priſon, paying the yearly Expence of holding the Grand Seſſions, as will appear by the Act. Now as ſoon as this Duty was laid on, Officers were appointed by the King to collect it, and it has ever ſince been paid in to ſuch Officers, and has not been applied to the Uſes in the Act.</p>
+            <p>It is ſaid, that the Money ariſing from this Duty is amongſt the Funds that are appointed for the Civil Liſt by the Par<g ref="char:EOLhyphen"/>liament. But when thoſe Funds are examin'd, it will be found they were all raiſed by Act of Parliament, this only excepted. Then the Queſtion naturally will be, How that Money comes there? The Anſwer is ready: It was Money raiſed by the In<g ref="char:EOLhyphen"/>habitants of <hi>Barbadoes</hi> for their own Uſe; but has been ever ſince it was raiſed taken from them. Certainly this Anſwer would ſound better in <hi>Turkiſh</hi> or <hi>French</hi> Language than in <hi>Engliſh;</hi> and that ſome other Fund ought to be in its place, will be found more agreeable to Juſtice: For it has been always eſteemed in <hi>England</hi> a very great Injuſtice to miſapply any Fund, and no doubt the ſame Liberty and Juſtice extends it ſelf to the Colonies. The People of the Plantations have very calmly ſubmitted to the Duties laid upon them by the Government here, tho they have no Re<g ref="char:EOLhyphen"/>preſentatives in Parliament, which is directly againſt the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Conſtitution.</p>
+            <p>But when they raiſe Money in the Colonies for their own Defence, and for their own Uſe; to have that tranſmitted from them to <hi>England,</hi> ſeems to be very hard, and altoge<g ref="char:EOLhyphen"/>ther repugnant to the Freedom that every <hi>Engliſhman</hi> is born to.</p>
+            <p>And as the Governour then in being, when this Duty was laid, had his own particular Ends in the firſt Miſapplication, ſo it's to be hoped, that the Continuance of it has been chiefly
+<pb n="8" facs="tcp:135533:5" rendition="simple:additions"/>for want of Enquiry, and that upon due Examination it will run in its proper Channel, that the People may have at leaſt, that Money, to put themſelves in ſome Poſture of Defence which was firſt raiſed for that purpoſe; and if the Govern<g ref="char:EOLhyphen"/>ment here lay out the aforeſaid Sum of 140000 <hi>l.</hi> it will be Money well laid out, and but refunding part of that Duty which has been paid by the Inhabitants of the Colonies in their own wrong for ſo many Years paſt, which <hi>England</hi> has no more Right to than a Stranger has to any Planter's Eſtate there.</p>
+            <p>Sir, your coming in with your Intereſt to ſave a People under ſuch Hardſhips, and in danger upon ſo many Ac<g ref="char:EOLhyphen"/>counts, in which good Work all Impartial and Juſt Men will join with you, will carry its Reward with it, and will be very acceptable to all good Men, eſpecially thoſe con<g ref="char:EOLhyphen"/>cerned.</p>
+         </div>
+         <div type="notice">
+            <head>ADVETISEMENT.</head>
+            <p>IN a former Impreſſion of this Sheet, there was a great Miſtake committed, <hi>viz.</hi> in <hi>Page</hi> 6. line 23. where in<g ref="char:EOLhyphen"/>ſtead of 7000 <hi>l. per an.</hi> it muſt be only 700 <hi>l. per an.</hi> Thoſe that have any of that Impreſſion are deſired to rectify it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
